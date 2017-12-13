@@ -1,0 +1,1 @@
+This was my first project using the MVC design pattern. I relied heavily on the Microsoft tutorial for MVC here: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app

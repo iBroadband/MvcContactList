@@ -1,0 +1,11 @@
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\bin\Debug\netcoreapp2.0\MvcContactList.deps.json
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\bin\Debug\netcoreapp2.0\MvcContactList.runtimeconfig.json
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\bin\Debug\netcoreapp2.0\MvcContactList.runtimeconfig.dev.json
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\bin\Debug\netcoreapp2.0\MvcContactList.dll
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\bin\Debug\netcoreapp2.0\MvcContactList.pdb
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.csprojResolveAssemblyReference.cache
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.csproj.CoreCompileInputs.cache
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.AssemblyInfoInputs.cache
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.AssemblyInfo.cs
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.dll
+C:\Users\iBroadband\source\repos\MvcContactList\MvcContactList\obj\Debug\netcoreapp2.0\MvcContactList.pdb
